@@ -1,4 +1,4 @@
-# Hi, I'm SammanSarkar! 👋
+# Hi, I'm Samman Sarkar! 👋
 
 ## About Me
 I'm passionate about coding, AI, competitive programming, and full-stack development.
