@@ -30,8 +30,5 @@ I'm passionate about coding, AI, competitive programming, and full-stack develop
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 
-## GitHub Stats
-![SammanSarkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SammanSarkar&show_icons=true&theme=radical)
-
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/samman-sarkar)
