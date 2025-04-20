@@ -1,7 +1,7 @@
 # Hi, I'm Samman Sarkar! 👋
 
 ## About Me
-I'm passionate about coding, AI, competitive programming, and full-stack development.
+I'm passionate about full-stack development, AI, and competitive programming.
 
 ## Technologies & Skills
 
