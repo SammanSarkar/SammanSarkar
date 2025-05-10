@@ -46,9 +46,8 @@ I'm passionate about full-stack development, AI, and competitive programming.
 
 <hr>
 
-## 📈 My GitHub Stats
 
-<p align="center">&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api?username=SammanSarkar&cc=504&tc=BD2&ic=EC3&bc=000" alt="SammanSarkar" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api?username=SammanSarkar&cc=504&tc=BD2&ic=EC3&bc=007BFF" alt="SammanSarkar" /></p>
 
 
 
