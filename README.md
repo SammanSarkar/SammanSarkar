@@ -40,7 +40,6 @@ I'm passionate about full-stack development, AI, and competitive programming.
       <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" width="40" height="40"/>&nbsp;
     </td>
   </tr>
 </table>
