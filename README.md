@@ -5,30 +5,47 @@ I'm passionate about full-stack development, AI, and competitive programming.
 
 ## Technologies & Skills
 
-### Programming Languages
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
+<table>
+  <tr>
+    <td><b>Programming:</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=php" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs" width="40" height="40"/>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend:</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=html" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=css" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=vue" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" width="40" height="40"/>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend (MERN):</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="40" height="40"/>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools & Platforms:</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" width="40" height="40"/>&nbsp;
+    </td>
+  </tr>
+</table>
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
-
-### Backend & Full-Stack (MERN)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+<hr>
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/samman-sarkar)
