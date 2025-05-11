@@ -3,7 +3,7 @@
 ## About Me
 I'm passionate about full-stack development, AI, and competitive programming.
 
-## Technologies & Skills
+## Tech Stack
 
 <table>
   <tr>
