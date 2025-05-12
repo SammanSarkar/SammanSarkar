@@ -42,7 +42,6 @@ I'm passionate about full-stack development, AI, and competitive programming.
     <td><b>Machine Learning & Data:</b></td>
     <td>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" width="40" height="40"/>&nbsp;
     </td>
