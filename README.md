@@ -13,6 +13,7 @@ I'm passionate about full-stack development, AI, and competitive programming.
       <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=php" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=cs" width="40" height="40"/>&nbsp;
     </td>
@@ -23,6 +24,7 @@ I'm passionate about full-stack development, AI, and competitive programming.
       <img src="https://go-skill-icons.vercel.app/api/icons?i=html" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=css" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="40" height="40"/>&nbsp;
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=vue" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" width="40" height="40"/>&nbsp;
