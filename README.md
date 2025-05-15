@@ -67,7 +67,7 @@ I'm passionate about full-stack development, AI, and competitive programming.
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SammanSarkar&show_icons=true&hide_title=true&theme=midnight-blue&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" alt="Samman's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SammanSarkar&show_icons=true&hide_title=true&theme=midnight-blue&border_radius=10&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true" alt="Samman's GitHub Stats" />
 </p>
 
 
